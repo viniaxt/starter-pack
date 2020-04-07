@@ -39,7 +39,7 @@ You can thank me later for showing [this song](https://www.youtube.com/watch?v=G
 
   My favourite IDE is __Visual Studio Code__ (VSCode), and it looks like this:
 
-  ![](./assets/vscode-empty.png)
+  ![](./assets/vscode-empty.PNG)
 
   [Download VSCode](https://code.visualstudio.com/download)
 
@@ -86,7 +86,7 @@ You can thank me later for showing [this song](https://www.youtube.com/watch?v=G
 
   1. Open your terminal (btw mine is [Hyper](https://hyper.is/))
 
-  ![](./assets/terminal-empty.png)
+  ![](./assets/terminal-empty.PNG)
 
   2. type: 
 
@@ -96,7 +96,7 @@ You can thank me later for showing [this song](https://www.youtube.com/watch?v=G
 
   And is expected to see the result as v____ => actual version of your NodeJS
 
-  ![](./assets/terminal-node.png)
+  ![](./assets/terminal-node.PNG)
 
 ## Git
 
