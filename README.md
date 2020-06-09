@@ -106,7 +106,7 @@ You can thank me later for showing [this song](https://www.youtube.com/watch?v=G
 
   Imagine that you are in a team with another person. It's very important that you and your teammate have others features. 
 
-  [More about git](https://medium.com/@onejohi/git-understanding-the-basics-ba004a20dacc), because it's a more complex tool in matter of understanding, and there's people that can do it better than me.
+  [More about git](https://medium.com/@onejohi/git-understanding-the-basics-ba004a20dacc), because it's a more complex tool in matter of understanding, and there are people that can do it better than me.
 
 
 
